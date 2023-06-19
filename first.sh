@@ -1,4 +1,4 @@
 date
-cal
+cal 2015
 echo how ru
 ls -l
